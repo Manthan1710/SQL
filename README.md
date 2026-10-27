@@ -21,10 +21,12 @@ Stores doctor names, specializations, department IDs, experience, and consultati
 
 ### Appointments
 Stores patient appointments, doctor details, appointment dates, times, reasons, and status.
-## Appointments may have different statuses, such as:
-#	Completed
-#	Cancelled
-#	Scheduled
+**Appointments may have different statuses, such as:**
+- **Completed**
+- **Cancelled**
+- **Scheduled**
+
+Appointment records help the hospital monitor patient visits, identify cancellation patterns, and understand doctor and department workload.
 
 ### Treatments
 Stores treatment details, appointment IDs, treatment types, descriptions, costs, and dates.
