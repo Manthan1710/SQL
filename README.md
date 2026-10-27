@@ -1,12 +1,19 @@
 # Hospital Management Database – SQL Project
 
 ## Project Scenario
-
 A hospital provides healthcare services to patients through different medical departments and doctors. The hospital manages patient registrations, doctor information, appointments, treatments, and billing activities.
-
 The hospital wants to develop a **Hospital Management Database** using MySQL to store and manage its daily operations in a structured way.
-
 The database will help hospital management analyze patient information, appointment activity, doctor performance, treatment costs, billing details, and payment status using SQL queries.
+
+# Project Objectives
+- Store hospital information in a structured relational database.
+- Retrieve and filter patient, doctor, appointment, treatment, and billing records.
+- Analyze patient demographics and appointment activity.
+- Understand doctor workload and department performance.
+- Calculate treatment costs and billing totals.
+- Analyze paid and pending payments.
+- Practice SQL joins, aggregate functions, GROUP BY, HAVING, subqueries, CASE statements, and views.
+- Identify missing records and possible inconsistencies in hospital data.
 
 ## 1. Database Tables
 
@@ -25,7 +32,6 @@ Stores patient appointments, doctor details, appointment dates, times, reasons, 
 - **Completed**
 - **Cancelled**
 - **Scheduled**
-
 Appointment records help the hospital monitor patient visits, identify cancellation patterns, and understand doctor and department workload.
 
 ### Treatments
@@ -37,7 +43,6 @@ Stores patient and appointment IDs, bill dates, treatment amounts, consultation 
 ---
 
 # SQL Business Analysis Questions
-
 The following 50 questions cover basic SQL queries, filtering, sorting, aggregate functions, grouping, joins, subqueries, CASE statements, views, and data quality checks.
 
 ## Section 1: Basic Database Queries
@@ -113,21 +118,7 @@ The following 50 questions cover basic SQL queries, filtering, sorting, aggregat
 
 ---
 
-# Project Objectives
-
-- Store hospital information in a structured relational database.
-- Retrieve and filter patient, doctor, appointment, treatment, and billing records.
-- Analyze patient demographics and appointment activity.
-- Understand doctor workload and department performance.
-- Calculate treatment costs and billing totals.
-- Analyze paid and pending payments.
-- Practice SQL joins, aggregate functions, GROUP BY, HAVING, subqueries, CASE statements, and views.
-- Identify missing records and possible inconsistencies in hospital data.
-
 # Project Conclusion
-
 The Hospital Management Database SQL project demonstrates how MySQL can be used to store, retrieve, and analyze hospital information.
-
 The project covers patient analysis, appointment monitoring, doctor and department performance, treatment costs, and billing activities. It uses SQL concepts such as SELECT, WHERE, ORDER BY, GROUP BY, aggregate functions, joins, subqueries, CASE statements, and views.
-
 This project provides practical experience in database management and helps develop the SQL skills required for data analysis.
