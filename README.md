@@ -108,8 +108,4 @@ Stores patient and appointment IDs, bill dates, treatment amounts, consultation 
 
 # Project Conclusion
 
-The Hospital Management Database SQL project demonstrates how MySQL can be used to store, retrieve, and analyze hospital information.
-
-The project covers patient analysis, appointment monitoring, doctor and department performance, treatment costs, and billing activities. It applies important SQL concepts, including filtering, sorting, joins, aggregate functions, grouping, subqueries, CASE statements, and views.
-
-Overall, this project provides practical experience in database management and develops SQL skills useful for data analysis.
+The Hospital Management Database SQL project demonstrates how MySQL can be used to store, retrieve, and analyze hospital information. The project covers patient analysis, appointment monitoring, doctor and department performance, treatment costs, and billing activities. It applies important SQL concepts, including filtering, sorting, joins, aggregate functions, grouping, subqueries, CASE statements, and views. Overall, this project provides practical experience in database management and develops SQL skills useful for data analysis.
